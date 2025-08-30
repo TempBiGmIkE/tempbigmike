@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olanipekun oladapo micheal</h1>
 <h3 align="center">A passionate full stack developer out of Nigeria with 5+ years</h3>
 
-- 🔭 I’m currently working on [Harpenin](https://harpenin-landingpage.onrender.com/)
+- 🔭 I’m currently working on [Harpenin](https://harpenin.com/)
 
 - 🌱 I’m currently learning **three js, gsap, spline**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **temp.bigmike@gmail.com**
 
-- ⚡ Fun fact **im a very dynamic person im a creative director at STING|INC**
+- ⚡ Fun fact **im a very dynamic person im a creative director and founder at STING|INC**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
